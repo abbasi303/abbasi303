@@ -2,7 +2,7 @@
 <h3 align="center">Amateur web developer passionate about learning and building my professional career</h3>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abbasi303&label=Profile%20Views&countColor=%23263759" alt="Profile Views" />
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&url=https://profile-view-counter.callofdutymobiletopten.workers.dev/&query=value&color=0e75b6&style=flat)
 </p>
 
 
