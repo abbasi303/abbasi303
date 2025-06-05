@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ussayed Shakeel Abbasi</h1>
 <h3 align="center">Amateur web developer passionate about learning and building my professional career</h3>
-
+<p align="center">
 ![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&url=https://profile-view-counter.callofdutymobiletopten.workers.dev/&query=value&color=0e75b6&style=flat)
-
-
+<p>
 
 
 ### 🌱 Currently Learning
