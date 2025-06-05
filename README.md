@@ -2,8 +2,9 @@
 <h3 align="center">Amateur web developer passionate about learning and building my professional career</h3>
 
 <p align="center">
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=abbasi303.abbasi303)
+  <img src="https://api.visitorbadge.io/api/visitors?path=abbasi303&label=Profile%20Views&countColor=%23263759" alt="Profile Views" />
 </p>
+
 
 
 ### 🌱 Currently Learning
