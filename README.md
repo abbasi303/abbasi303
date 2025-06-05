@@ -2,7 +2,7 @@
 <h3 align="center">Amateur web developer passionate about learning and building my professional career</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbasi303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=abbasi303.abbasi303)
 </p>
 
 
