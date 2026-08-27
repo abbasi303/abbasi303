@@ -293,20 +293,10 @@ Awarded for my Bachelor of Science studies at the University of Pécs.
 - 💻 **GitHub:** [github.com/abbasi303](https://github.com/abbasi303)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasi303&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbasi303&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasi303" alt="GitHub Streak" />
-</p>
 </p>
 
 <p align="center">
