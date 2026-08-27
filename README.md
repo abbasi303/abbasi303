@@ -300,5 +300,5 @@ Awarded for my Bachelor of Science studies at the University of Pécs.
 </p>
 
 <p align="center">
-  <img src="./profile/languages.svg" alt="Top Languages" />
+  <img src="./profile/languages.svg" alt="Languages Across My Projects" />
 </p>
