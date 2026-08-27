@@ -296,9 +296,9 @@ Awarded for my Bachelor of Science studies at the University of Pécs.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/stats-v2.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/languages.svg" alt="Languages Across My Projects" />
+  <img src="./profile/languages-v2.svg" alt="Languages Across My Projects" />
 </p>
