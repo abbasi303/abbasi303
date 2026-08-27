@@ -288,9 +288,30 @@ Awarded for my Bachelor of Science studies at the University of Pécs.
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** ussayed.ua.abbasi@fau.de
+- 📧 **Email:** abbasiussayedshakeel@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/ussayed](https://www.linkedin.com/in/ussayed)
 - 💻 **GitHub:** [github.com/abbasi303](https://github.com/abbasi303)
 
 ---
-### 📊 GitHub Stats <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasi303&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abbasi303&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasi303" alt="GitHub Streak" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abbasi303&show_icons=true&hide_border=true"
+    alt="Ussayed's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasi303&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=abbasi303&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
