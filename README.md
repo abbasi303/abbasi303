@@ -307,3 +307,12 @@ Awarded for my Bachelor of Science studies at the University of Pécs.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasi303" alt="GitHub Streak" />
 </p>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbasi303&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasi303" alt="GitHub Streak" />
+</p>
